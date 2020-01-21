@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/ak/.cache/gnome-builder/install/GITHUB/host
+app-id=
+postbuild=
+prebuild=
+default=true
